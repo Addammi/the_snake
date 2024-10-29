@@ -171,7 +171,7 @@ def main() -> None:
         apple.draw(screen)
 
         pygame.display.update()
-
+        рр = 1245372
 
 if __name__ == '__main__':
     main()
